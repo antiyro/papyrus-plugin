@@ -19,3 +19,7 @@ serde_json = "1.0.91"
 
 # Web
 warp = "0.3.3"
+
+# Graphql
+async-graphql = "5.0.5"
+async-graphql-warp = "5.0.5"
